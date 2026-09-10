@@ -48,7 +48,7 @@ if (isset($_FILES["archivo"]) && $_FILES["archivo"]["error"] === UPLOAD_ERR_OK) 
                     <?php echo $mensaje; ?>
                 </div>
 
-                <div class="text-center">
+                <div class="text-center ">
                     <a href="index.php" class="btn btn-primary">
                         Regresar al formulario
                     </a>
@@ -60,4 +60,4 @@ if (isset($_FILES["archivo"]) && $_FILES["archivo"]["error"] === UPLOAD_ERR_OK) 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
+</html> 
