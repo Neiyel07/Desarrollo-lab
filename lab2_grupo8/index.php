@@ -10,7 +10,7 @@
     <div class="container py-5">
 
         <div class="text-center mb-4">
-            <h1 class="fw-bold">Laboratorio 2 - Grupo 1</h1>
+            <h1 class="fw-bold">Laboratorio 2 - Grupo 8</h1>
             <p class="text-muted">Formulario para subir archivos con PHP</p>
         </div>
 
@@ -22,9 +22,8 @@
                     <div class="card-body">
                         <h5 class="card-title">Integrantes del grupo</h5>
                         <ul class="mb-0">
-                            <li>Nombre Apellido 1</li>
-                            <li>Nombre Apellido 2</li>
-                            <li>Nombre Apellido 3</li>
+                            <li>Neiyel Rodríguez Mora</li>
+                            <li>Melany Amador</li>
                         </ul>
                     </div>
                 </div>
